@@ -1,0 +1,11 @@
+= Sample
+
+[graphviz,"{plantUMLDir}graphviz-example",png]
+....
+digraph {
+    a->b
+    b->c
+    a->c
+}
+....
+
